@@ -1,0 +1,53 @@
+.description-section {    
+  padding: 0px 200px 0px 200px;
+}
+
+.description-antitle {  
+  display: flex;  
+  align-items: center;
+  justify-content: space-between;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -.44px;
+  color: var(--white);  
+}
+
+.description-icons {
+  width: 192px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+}
+
+.container {  
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-texts {  
+  width: 500px;
+  height: 400px;    
+}
+
+.container-title {
+  font-size: 52px;
+  font-weight: 600;
+  line-height: 55px;  
+}
+
+.container-paragraphe {  
+  width: 400px;  
+}
+
+.profile {
+  display: flex;
+}
+
+.profile-image {  
+  width: 400px;
+  height: 620px;  
+  margin-top: -95px;
+  margin-left: -100px;
+  z-index: -1;  
+}
