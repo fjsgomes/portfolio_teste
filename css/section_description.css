@@ -9,7 +9,7 @@
   font-size: 32px;
   font-weight: 600;
   line-height: 32px;
-  letter-spacing: -.44px;
+  /* letter-spacing: -.44px; */ 
   color: var(--white);  
 }
 
@@ -45,9 +45,9 @@
 }
 
 .profile-image {  
-  width: 400px;
-  height: 620px;  
-  margin-top: -95px;
+  width: 520px;
+  height: 400px;
+  /* margin-top: 0px; */
   margin-left: -100px;
   z-index: -1;  
 }
