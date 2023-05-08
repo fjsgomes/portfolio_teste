@@ -1,0 +1,10 @@
+.teste {
+  border: 1px solid red;
+  max-width: 500px;
+  /* max-height: 500px; */
+}
+
+.myslides {
+  display:none;
+  width: 100%;
+}
